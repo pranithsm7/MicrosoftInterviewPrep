@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0877a95f-b33f-4a90-8318-812151aa0d26" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Strings/Easy/BubbleArray.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/SearchATwoDMatrix.java" afterPath="$PROJECT_DIR$/src/Arrays/Easy/SearchATwoDMatrix.java" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/ThreeSum.java" afterPath="$PROJECT_DIR$/src/Arrays/Easy/ThreeSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/SearchInsertPosition.java" afterPath="$PROJECT_DIR$/src/Arrays/Easy/SearchInsertPosition.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BubbleArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Strings/Easy/BubbleArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/SearchInsertPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="33" column="73" lean-forward="false" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -95,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/Arrays/Easy/SearchATwoDMatrix.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Easy/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/Strings/Easy/BubbleArray.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Easy/SearchInsertPosition.java" />
       </list>
     </option>
   </component>
@@ -180,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.SearchInsertPosition">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -196,6 +205,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Arrays.Easy.RotateArray" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Microsoft" />
+      <envs />
+    </configuration>
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Arrays.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.SearchInsertPosition" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -300,14 +328,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.RotateArray" />
       <item index="1" class="java.lang.String" itemvalue="Application.TwoSum" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SearchInsertPosition" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.TwoSum" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RotateArray" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.SearchInsertPosition" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TwoSum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RotateArray" />
       </list>
     </recent_temporary>
   </component>
@@ -339,9 +369,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2338377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2338377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45804676" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45804676" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -488,7 +518,15 @@
     <entry file="file://$PROJECT_DIR$/src/Strings/Easy/BubbleArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/SearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="33" column="73" lean-forward="false" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
           <folding />
         </state>
       </provider>
