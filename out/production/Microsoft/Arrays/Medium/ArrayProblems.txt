@@ -1,0 +1,69 @@
+Range Addition
+Candy Crush
+Lonely Pixel I
+Shortest Word Distance III
+Product of Array Except Self
+Teemo Attacking	51.3%		
+Beautiful Arrangement II	51.0%		
+Array Nesting	50.0%		
+Max Chunks To Make Sorted	.0%		
+Combination Sum III	.8%		
+Subsets	.8%		
+Best Time to Buy and Sell Stock with Transaction Fee
+Find the Duplicate Number	.1%			
+Lonely Pixel II
+Image Overlap	.7%		
+Unique Paths	.5%		
+Rotate Image	.%		
+My Calendar I	.8%		
+Combination Sum	.8%		
+Spiral Matrix II	.%		
+Minimum Path Sum	.0%		
+Task Scheduler	.8%		
+Valid Triangle Number	.6%		
+Maximum Length of Repeated Subarray	.		
+Length of Longest Fibonacci Subsequence	.0%		
+Find Minimum in Rotated Sorted Array	.6%		
+Number of Subarrays with Bounded Maximum	.5%		
+Longest Line of Consecutive One in Matrix
+RLE Iterator
+Insert Delete GetRandom O(1)	.6%		
+Subarray Sum Equals K	.1%		
+Sort Colors	.0%		
+Find Peak Element	39.8%		
+Subsets II	39.8%		
+Game of Life	39.7%		
+Advantage Shuffle	39.7%		
+Container With Most Water	38.9%		
+Maximum Swap	38.8%		
+Split Array with Equal Sum
+Remove Duplicates from Sorted Array II	38.%			
+Number of Matching Subsequences	38.1%		
+Combination Sum II	37.9%		
+Set Matrix Zeroes	37.7%		
+Construct Binary Tree from Preorder and Inorder Traversal	36.8%		
+Triangle	36.5%		
+Partition Array into Disjoint Intervals	35.9%		
+Construct Binary Tree from Inorder and Postorder Traversal	35.8%		
+Pour Water
+Global and Local Inversions	35.6%		
+Find the Celebrity
+Search a D Matrix	3		
+Summary Ranges	33.6%		
+Subarray Product Less Than K	33.6%		
+Minimum Size Subarray Sum	33.%		
+Merge Intervals	33.1%		
+3Sum Closest	3.7%		
+Unique Paths II	3.6%		
+Search in Rotated Sorted Array II	3.		
+Friends Of Appropriate Ages	3.%		
+Search in Rotated Sorted Array	3.1%		
+Find First and Last Position of Element in Sorted Array	3.0%		
+Jump Game	30.3%		
+Majority Element II	30.%		
+Next Permutation	9.3%		
+Word Search	9.0%			
+um	8.		
+Spiral Matrix	8.3%		
+Maximum Product Subarray	7.5%		
+Missing Ranges
