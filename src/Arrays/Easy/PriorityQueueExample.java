@@ -1,6 +1,7 @@
 package Arrays.Easy;
 
 import java.util.PriorityQueue;
+import java.util.WeakHashMap;
 
 public class PriorityQueueExample {
 
@@ -14,5 +15,7 @@ public class PriorityQueueExample {
         priorityQueue.add(0);
 
         System.out.println(priorityQueue);
+
+        WeakHashMap weakHashMap=new WeakHashMap();
     }
 }
