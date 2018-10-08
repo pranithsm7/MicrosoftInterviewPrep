@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe7d452d-a7d8-4bde-a034-a6f1f8026207" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Arrays/Easy/CanPlaceFlower.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/PascalTriangle.java" afterPath="$PROJECT_DIR$/src/Arrays/Easy/PascalTriangle.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/Microsoft/Arrays/Easy/NumberThatDisappeared.class" afterPath="$PROJECT_DIR$/out/production/Microsoft/Arrays/Easy/NumberThatDisappeared.class" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/NumberThatDisappeared.java" afterPath="$PROJECT_DIR$/src/Arrays/Easy/NumberThatDisappeared.java" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/ThirdMaximumNumber.java" afterPath="$PROJECT_DIR$/src/Arrays/Easy/ThirdMaximumNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FindPeakElement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/FindPeakElement.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PascalTriangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PascalTriangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/PascalTriangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="239">
+              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
               <folding>
                 <element signature="e#780#781#0" expanded="true" />
                 <element signature="e#854#855#0" expanded="true" />
@@ -84,7 +77,17 @@
         <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CanPlaceFlower.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/CanPlaceFlower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -103,8 +106,8 @@
       <file leaf-file-name="ThirdMaximumNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/ThirdMaximumNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,9 +116,11 @@
       <file leaf-file-name="NumberThatDisappeared.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/NumberThatDisappeared.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="169">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,14 +147,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/Arrays/Easy/FindPivotIndex.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Easy/FancyCandy.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Easy/NumberThatDisappeared.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Easy/PascalTriangle.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Easy/NumberThatDisappeared.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Easy/ThirdMaximumNumber.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Easy/CanPlaceFlower.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="194" />
-    <option name="y" value="23" />
+    <option name="x" value="481" />
+    <option name="y" value="271" />
     <option name="width" value="1086" />
     <option name="height" value="714" />
   </component>
@@ -233,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PascalTriangle">
+  <component name="RunManager" selected="Application.NumberThatDisappeared">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -419,8 +426,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PascalTriangle" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NumberThatDisappeared" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NumberThatDisappeared" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PascalTriangle" />
         <item index="2" class="java.lang.String" itemvalue="Application.FindPivotIndex" />
         <item index="3" class="java.lang.String" itemvalue="Application.MoveZeros" />
         <item index="4" class="java.lang.String" itemvalue="Application.ArrayPartition" />
@@ -444,7 +451,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="194" y="23" width="1086" height="714" extended-state="0" />
+    <frame x="481" y="271" width="1086" height="714" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -512,14 +519,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/FindPeakElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/FindPivotIndex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -870,14 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/RemoveElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -886,30 +877,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/ThirdMaximumNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/PascalTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="239">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/NumberThatDisappeared.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="169">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/ThirdMaximumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/PascalTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Easy/CanPlaceFlower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
