@@ -18,11 +18,10 @@ public class MinimumSubArrayWithSameDegree {
             if(!count.containsKey(nums[i])){
                 startIndex.put(nums[i],i);
                 count.put(nums[i],1);
-            }else{
+            }
                 endIndex.put(nums[i],i);
                 count.put(nums[i],count.get(nums[i])+1);
-                maxCount=Integer.max(count.get(nums[i]),maxCount);
-            }
+                maxCount=Math.max(maxCount,count.get(nums[i]));
         }
         int minLength=Integer.MAX_VALUE;
 
