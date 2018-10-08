@@ -1,5 +1,8 @@
 package Arrays.Easy;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class RemoveElement {
 
     public int removeElement(int[] A, int elem) {
@@ -19,6 +22,14 @@ public class RemoveElement {
     }
 
     public static void main(String[] args){
+
+        HashMap<Integer, Integer> hashMap=new HashMap<>();
+        hashMap.
+
+        for(Map.Entry<Integer, Integer> entry : hashMap.entrySet()){
+
+            entry.
+        }
 
         System.out.println(new RemoveElement().removeElement(new int[]{0,1,2,2,3,0,4,2},2));
     }
