@@ -2,19 +2,18 @@ package Arrays.BucketSort;
 
 public class FirstPositiveNumber {
 
-    public int findTheFirstPositiveNumber(int[] array){
+    public int findTheFirstPositiveNumber(int[] nums){
 
-        int[] result=new int[array.length+1];
+        int[] result=new int[nums.length+1];
 
+        for(int i=0;i<nums.length;i++){
 
-        for(int i=0;i<array.length;i++){
-
-            if(array[i]<0){
+            if(nums[i]<0){
                 continue;
             }
 
-            if(array[i]<=result.length){
-                result[array[i]]=1;
+            if(nums[i]<=nums.length && result[nums[i]]==0){
+                result[nums[i]]=1;
             }
         }
 
@@ -29,6 +28,6 @@ public class FirstPositiveNumber {
 
     public static void main(String[] args){
 
-        System.out.println(new FirstPositiveNumber().findTheFirstPositiveNumber(new int[]{7,8,9,10,12}));
+        System.out.println(new FirstPositiveNumber().findTheFirstPositiveNumber(new int[]{2}));
     }
 }
