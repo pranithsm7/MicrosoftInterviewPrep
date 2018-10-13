@@ -28,6 +28,6 @@ public class FirstPositiveNumber {
     }
 
     public static void main(String[] args){
-        System.out.println(new FirstPositiveNumber().findTheFirstPositiveNumber(new int[]{7,8,9,11,12}));
+        System.out.println(new FirstPositiveNumber().findTheFirstPositiveNumber(new int[]{3,4,-1,1}));
     }
 }
