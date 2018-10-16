@@ -24,5 +24,8 @@ public class SortArrayByParity {
 
     public static void main(String[] args){
         System.out.println(Arrays.toString(new SortArrayByParity().sortArrayByParity(new int[]{3,1,2,4})));
+
+        int[] array=new int[-2];
+        System.out.println(array.length);
     }
 }
