@@ -1,0 +1,2 @@
+#SimpleQuery
+select * from movie_item where movie_name='Usual Suspects, The (1995)';
