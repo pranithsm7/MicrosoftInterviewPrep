@@ -24,7 +24,7 @@ public class CustomSorting {
 
         for(char t : source.toCharArray()){
 
-            if(sourceArray[t-'a']>0){
+            while(sourceArray[t-'a']>0){
                 sb.append(t);
                 sourceArray[t-'a']--;
             }
@@ -44,6 +44,6 @@ public class CustomSorting {
 
     public static void main(String[] args){
 
-        System.out.println(new CustomSorting().customSorting("cba","abcd"));
+        System.out.println(new CustomSorting().customSorting("kqep", "pekeq"));
     }
 }
