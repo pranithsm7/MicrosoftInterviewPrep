@@ -1,6 +1,6 @@
 package LinkedList.Implementation;
 
-public class Node {
+/**public class Node {
 
     public Node next;
     public int data;
@@ -8,4 +8,4 @@ public class Node {
     public Node(int data){
         this.data=data;
     }
-}
+}**/
