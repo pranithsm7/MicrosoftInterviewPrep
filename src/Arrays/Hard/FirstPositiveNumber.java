@@ -13,7 +13,7 @@ public class FirstPositiveNumber {
                 continue;
             }
 
-            if(array[i]<=result.length){
+            if(array[i]<result.length){
                 result[array[i]]=1;
             }
         }
@@ -28,6 +28,6 @@ public class FirstPositiveNumber {
     }
 
     public static void main(String[] args){
-        System.out.println(new FirstPositiveNumber().findTheFirstPositiveNumber(new int[]{3,4,-1,1}));
+        System.out.println(new FirstPositiveNumber().findTheFirstPositiveNumber(new int[]{3,4,1,-1}));
     }
 }
