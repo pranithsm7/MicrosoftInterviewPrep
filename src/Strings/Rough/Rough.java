@@ -5,6 +5,6 @@ public class Rough {
 
 
     public static void main(String[] args){
-        //int value=Integer.MIN_VALUE
+        System.out.println(1<<95);
     }
 }
