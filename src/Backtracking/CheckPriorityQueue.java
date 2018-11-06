@@ -13,6 +13,8 @@ public class CheckPriorityQueue {
         priorityQueue.add(1);
         priorityQueue.add(2);
 
+        System.out.println(Integer.MIN_VALUE);
+
         System.out.println(priorityQueue);
 
 
