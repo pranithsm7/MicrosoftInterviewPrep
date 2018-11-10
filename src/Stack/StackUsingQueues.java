@@ -33,7 +33,7 @@ public class StackUsingQueues {
     }
 
     public int pop(){
-        return queue.peek();
+        return queue.poll();
     }
 
     public boolean isEmpty(){
