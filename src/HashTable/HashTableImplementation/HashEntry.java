@@ -2,9 +2,9 @@ package HashTable.HashTableImplementation;
 
 public class HashEntry {
 
-    private String key;
-    private String value;
-    private HashEntry next;
+    public String key;
+    public String value;
+    public HashEntry next;
 
     public HashEntry(String key, String value){
 
