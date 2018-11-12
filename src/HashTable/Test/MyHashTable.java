@@ -49,7 +49,7 @@ public class MyHashTable {
     }
 
 
-    public static class HashEntry{
+    public class HashEntry{
 
         private String key;
         private String value;
