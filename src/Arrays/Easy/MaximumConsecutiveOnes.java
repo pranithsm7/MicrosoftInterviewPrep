@@ -4,20 +4,20 @@ public class MaximumConsecutiveOnes {
 
     public int findMaxConsecutiveOnes(int[] nums) {
 
-        int minCount = 0;
+        int maxCount = 0;
         int counter = 0;
 
         for (int i = 0; i < nums.length; i++) {
 
             if (nums[i] == 1) {
                 counter++;
-                minCount=Math.max(counter,minCount);
+                maxCount=Math.max(counter,maxCount);
 
             } else {
                 counter=0;
             }
         }
-        return minCount;
+        return maxCount;
     }
 
     public static void main(String[] args) {
