@@ -12,4 +12,8 @@ public class ListNode {
         this.key=key;
         this.value=value;
     }
+
+    public ListNode(int key){
+        this.key=key;
+    }
 }
